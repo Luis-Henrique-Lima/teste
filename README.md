@@ -42,5 +42,5 @@
 
 <br> <br>
 
-<img align="right" alt="obito" width="250" height="200" src="https://www.bing.com/th/id/OGC.889a2587366f0e9c63e48645801f5194?pid=1.7&rurl=https%3a%2f%2fmedia1.tenor.com%2fimages%2f889a2587366f0e9c63e48645801f5194%2ftenor.gif%3fitemid%3d16358699&ehk=nmyWSzhkN%2bjFwCN4hI59y2M7wyKjbbQhFwG7%2fU3Ti5Y%3d">
+<img align="" alt="obito" width="800" height="200" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-1045.gif">
 
