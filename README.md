@@ -42,5 +42,5 @@
 
 <br> <br>
 
-<img align="" alt="obito" width="800" height="200" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-1045.gif">
+<img align="" alt="obito" width="1000" height="200" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-1045.gif">
 
